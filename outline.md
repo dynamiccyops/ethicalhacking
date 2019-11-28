@@ -6,50 +6,10 @@
 4.	ENUMERATION
 5.	VULNERABILITY ANALYSIS
 6.	SYSTEM HACKING
-a.	Overview of CEH Hacking Methodology
-b.	Understanding different techniques to gain access to the system
-c.	Understanding privilege escalation techniques
-d.	Understanding different techniques to create and maintain remote access to the system
-e.	Overview of different types of Rootkits
-f.	Overview of Steganograpy and Steganalysis
-g.	Understanding techniques to hide the evidence of compromise
-h.	Overview of system hacking penetration testing
 7.	MALWARE THREATS
-a.	Introduction to malware and malware propagation techniques
-b.	Overview of Trojans, their types, and how to infect systems
-c.	Overview of viruses, their types, and how they infect files
-d.	Introduction to computer worm
-e.	Understanding the Malware Analysis Process
-f.	Understanding different techniques to detect malware
-g.	Malware countermeasures
-h.	Overview of Malware penetration testing
 8.	SNIFFING
-a.	Overview of sniffing concepts
-b.	Understanding MAC attacks
-c.	Understanding DHCP attacks
-d.	Understanding ARP Poisoning
-e.	Understanding MAC Spoofing attacks
-f.	Understanding DNS poisoning
-g.	Sniffing tools
-h.	Sniffing countermeasures
-i.	Understanding various techniques to detect sniffing
-j.	Overview of sniffing Pen Testing
 9.	SOCIAL ENGINEERING
-a.	Overview of social engineering
-b.	Understanding various social engineering techniques
-c.	Understanding insider threats
-d.	Understanding impersonation on social networking sites
-e.	Understanding identity theft
-f.	Social engineering countermeasures
-g.	Identify theft countermeasures
-h.	Overview of Social Engineering Pen Testing
 10.	DENIAL-OF-SERVICE
-a.	Overview of Denial of Service (DoS) and Distributed Denial-of-Service (DDoS) Attacks
-b.	Overview different DoS/DDoS) attack techniques
-c.	Understanding the botnet network
-d.	Understanding various DoS and DDoS Attack Tools
-e.	DoS/DDoS Countermeasures
-f.	Overview of DoS Attack Penetration Testing
 11.	SESSION HIJACKING
 a.	Understanding session hijacking concepts
 b.	Understanding application level session hijacking
